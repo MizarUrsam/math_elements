@@ -16,6 +16,9 @@ $$a + b = 2$$
 （请直接去jupyterlab中试用）  
 # 注释
 CTRL + /： comment
+# 学习步骤
+![Uploading image.png…]()
+
 
 
 
