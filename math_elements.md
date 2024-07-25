@@ -9,5 +9,7 @@ space twice（敲击两次空格）：Jupyterlab中markdown中的分段
 ctrl + enter: 执行  
 esc + b：在当前cell下方生成一个新的cell  
 esc + a：在当前cell上方生成一个新的cell  
-
+# 写作公式
+This is a symbol, $A$
+$$a + b = 2$$
 
