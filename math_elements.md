@@ -17,7 +17,7 @@ $$a + b = 2$$
 # 注释
 CTRL + /： comment
 # 学习步骤
-![Uploading image.png…]()
+![Example Image](images/example.png)
 
 # 一些个人问题
 ## Q：现在，我还有个问题，我本地安装的python是3.10版本，但我通过anaconda使用python时，显示的版本是3.9
