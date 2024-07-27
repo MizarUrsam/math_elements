@@ -27,11 +27,11 @@ CTRL + /： comment
 你可以在终端或命令提示符中运行以下命令来查看当前使用的 Python 版本：
 ```python
 python --version
-
+```
 如果你在使用 Anaconda 环境，可以运行：
 ```python
 conda list python
-
+```
 这将显示当前激活的 Anaconda 环境中安装的 Python 版本。
 
 ### 解决方案
@@ -41,17 +41,20 @@ conda list python
 激活你的 Anaconda 环境（如果还没有激活）：
 ```python
 conda activate myenv  # 请将myenv替换为你的环境名称
-
+```
 更新 Python 版本：
 ```python
 conda install python=3.10
+```
 2. 创建一个新的 Anaconda 环境
 如果你想要一个干净的环境，可以创建一个新的 Anaconda 环境并指定所需的 Python 版本：
 ```python
 conda create --name myenv python=3.10
+```
 然后激活新的环境：
 ```python
 conda activate myenv
+```
 3. 指定 Python 解释器
 如果你在使用集成开发环境（IDE）如 VSCode、PyCharm 等，你可以指定使用的 Python 解释器。
 
@@ -70,6 +73,7 @@ conda activate myenv
 ```python
 which python  # 在Linux/MacOS上
 where python  # 在Windows上
+```
 这将显示当前终端中使用的 Python 解释器的路径。确保它指向你期望的 Python 版本。
 
 ### 总结
